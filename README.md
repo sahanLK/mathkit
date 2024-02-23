@@ -1,2 +1,1 @@
-# mathkit
-Math with Python
+## Math with Python
